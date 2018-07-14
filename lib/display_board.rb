@@ -8,3 +8,4 @@ def display_board
   puts "#{cell}#{sep}#{cell}#{sep}#{cell}"
   puts "#{lines}"
   puts "#{cell}#{sep}#{cell}#{sep}#{cell}"
+end
